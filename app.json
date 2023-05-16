@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Travel-App",
-    "slug": "Travel-App",
+    "slug": "visitsulut",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,14 +24,15 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.sifuxxx.TravelApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "ea1d55d6-307c-4650-a70d-1ff342fd729e"
+        "projectId": "e642b248-965d-44a5-96cf-355f4b8a095e"
       }
     }
   }
