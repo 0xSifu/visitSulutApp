@@ -1,0 +1,19 @@
+{
+  "dummyNamespace": {
+    "medium": "medium is great!",
+    "headbar_menu": "Preferred Destination",
+    "flatlist_menu_all": "All",
+    "flatlist_menu_itenary": "Itenary",
+    "flatlist_menu_destination": "Destination",
+    "flatlist_menu_cities": "Cities",
+    "headbar_sub": "What do They Say?",
+    "flatlist_activities": "Activities",
+    "kayak": "Kayak",
+    "hike": "Hike",
+    "water": "Water Ski",
+    "spa": "Spa",
+    "tennis": "Tennis",
+    "cycle": "Cycle",
+    "learn_more": "Learn More"
+  }
+}

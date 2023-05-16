@@ -1,0 +1,19 @@
+{
+    "dummyNamespace": {
+      "medium": "medium is great!",
+      "headbar_menu": "ご希望の目的地",
+      "flatlist_menu_all": "すべての",
+      "flatlist_menu_itenary": "イテナリー",
+      "flatlist_menu_destination": "行き先",
+      "flatlist_menu_cities": "市町村",
+      "headbar_sub": "彼らは何と言っていますか?",
+      "flatlist_activities": "活動",
+      "kayak": "カヤック",
+      "hike": "ハイク",
+      "water": "水上スキー",
+      "spa": "スパ",
+      "tennis": "テニス",
+      "cycle": "サイクル",
+      "learn_more": "詳細情報"
+    }
+}

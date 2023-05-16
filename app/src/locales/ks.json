@@ -1,0 +1,20 @@
+{
+    "dummyNamespace": {
+      "medium": "medium is great!",
+      "headbar_menu": "선호 목적지",
+      "flatlist_menu_all": "모두",
+      "flatlist_menu_itenary": "여정",
+      "flatlist_menu_destination": "목적지",
+      "flatlist_menu_cities": "도시",
+      "headbar_sub": "그들은 무엇을 말합니까?",
+      "flatlist_activities": "활동",
+      "kayak": "카약",
+      "hike": "하이킹",
+      "water": "수상 스키",
+      "spa": "스파",
+      "tennis": "테니스",
+      "cycle": "주기",
+      "learn_more": "더 알아보세요"
+    }
+  }
+  

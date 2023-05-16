@@ -1,0 +1,19 @@
+{
+    "dummyNamespace": {
+      "medium": "medium is great!",
+      "headbar_menu": "Destinasi Pilihan",
+      "flatlist_menu_all": "Semua",
+      "flatlist_menu_itenary": "Rencana",
+      "flatlist_menu_destination": "Destinasi",
+      "flatlist_menu_cities": "Kota",
+      "headbar_sub": "Menurut Mereka",
+      "flatlist_activities": "Kegiatan",
+      "kayak": "Kayak",
+      "hike": "Mendaki",
+      "water": "Ski Air",
+      "spa": "Spa",
+      "tennis": "Tenis",
+      "cycle": "Sepeda",
+      "learn_more": "Selengkapnya"
+    }
+  }
